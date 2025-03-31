@@ -20,10 +20,11 @@
 -->
 
 <img align="center" width="400" src="https://github.com/hanzelkaraagac/hanzelkaraagac/assets/113600705/aa422c7a-3357-446c-8faf-3225d1af1342" />
+<a href="https://discord.gg/hanzelkaraagac">
 
 
-
-
+<!-- %7C -> alttaki yaziya | eklememize yariyor -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+Mustafa+Karaltı+Github;)
 
 
 
