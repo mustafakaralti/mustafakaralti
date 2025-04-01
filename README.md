@@ -14,10 +14,6 @@
 <div id="header" align="right">
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/> -->
 
- <img align="right" width="400" src="https://media.licdn.com/dms/image/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/0/1709674937953?e=2147483647&v=beta&t=D46aQMTStnlCf7s6GPq67PFXzmWSTtPoQRtH60tacuo" alt="">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurr7&label=Profile%20views&color=0e75b6&style=flat" alt="mayurr7" /> </p>
-
 
 <!-- yorum satiri
 <h2 dir="auto"><a id="user-content-necktie-about-me" class="anchor" aria-hidden="true" href="#necktie-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z">
@@ -31,6 +27,13 @@
 
 <!-- %7C -> alttaki yaziya | eklememize yariyor -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+Mustafa+Karaltı+Github")
+
+
+
+
+ <img align="right" width="400" src="https://media.licdn.com/dms/image/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/0/1709674937953?e=2147483647&v=beta&t=D46aQMTStnlCf7s6GPq67PFXzmWSTtPoQRtH60tacuo" alt="">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurr7&label=Profile%20views&color=0e75b6&style=flat" alt="mayurr7" /> </p>
 
 
 
