@@ -3,9 +3,7 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
 <img src="https://komarev.com/ghpvc/?username=hanzelkaraagac&&style=plastics&&color=yellow" align="right"/> </p>
 
- <img align="right" width="400" src="https://media.licdn.com/dms/image/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/0/1709674937953?e=2147483647&v=beta&t=D46aQMTStnlCf7s6GPq67PFXzmWSTtPoQRtH60tacuo" alt="">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurr7&label=Profile%20views&color=0e75b6&style=flat" alt="mayurr7" /> </p>
 
 
 <!-- <h2 align="center"> -->
@@ -16,6 +14,9 @@
 <div id="header" align="right">
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/> -->
 
+ <img align="right" width="400" src="https://media.licdn.com/dms/image/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/0/1709674937953?e=2147483647&v=beta&t=D46aQMTStnlCf7s6GPq67PFXzmWSTtPoQRtH60tacuo" alt="">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurr7&label=Profile%20views&color=0e75b6&style=flat" alt="mayurr7" /> </p>
 
 
 <!-- yorum satiri
