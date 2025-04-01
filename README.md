@@ -49,10 +49,6 @@
 
 - 📫 How to reach me **mustafakaralti@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-# 💫 About Me:
-Hi I'm Mustafa Karaltı<br><br>A passionate frontend developer from Turkey<br> <br>I'm currently working on I devolop desktop projects <br><br>I'm currently learning I'm currently receiving software training<br>and continuing to improve myself.<br><br>Ask me about Html&Css<br><br>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mustafakaralti@gmail.com) 
