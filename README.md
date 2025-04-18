@@ -114,4 +114,4 @@ jobs:
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
  
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Mustafa Karaltı</b>
-<audio controls><source src="[(https://www.youtube.com/watch?v=5SXX-pWzOY8)](https://www.youtube.com/watch?v=5SXX-pWzOY8)></audio>
+<audio controls><source src="(https://www.youtube.com/watch?v=5SXX-pWzOY8)></audio>
